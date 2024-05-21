@@ -1,0 +1,4 @@
+ID,Cliente,Asunto,Prioridad,Estado,Agente Asignado
+1,Ana,LS,ko,Cerrado,
+2,Ana Alcantara,Compra pc,alta,Cerrado,
+3,LSP,Compra,baja,Abierto,

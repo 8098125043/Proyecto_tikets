@@ -1,0 +1,14 @@
+ID: 1
+Cliente: ana alcantara
+Asunto: compra
+Prioridad: alto
+Estado: Abierto
+Agente Asignado: None
+
+ID: 2
+Cliente: luis
+Asunto: compra
+Prioridad: baja
+Estado: Abierto
+Agente Asignado: None
+

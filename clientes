@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "Cliente": "luisa montero",
+        "Asunto": "soporte pc",
+        "Prioridad": "Media",
+        "Estado": "Abierto",
+        "Agente Asignado": "maria carrasco"
+    },
+    {
+        "ID": 2,
+        "Cliente": "jose luis",
+        "Asunto": "compra de  bocinas",
+        "Prioridad": "Media",
+        "Estado": "Abierto",
+        "Agente Asignado": null
+    },
+    {
+        "ID": 3,
+        "Cliente": "ana",
+        "Asunto": "venta pc",
+        "Prioridad": "Alta",
+        "Estado": "Abierto",
+        "Agente Asignado": null
+    },
+    {
+        "ID": 4,
+        "Cliente": "ana alcantara",
+        "Asunto": "soporte a redes",
+        "Prioridad": "Alta",
+        "Estado": "Abierto",
+        "Agente Asignado": null
+    },
+    {
+        "ID": 5,
+        "Cliente": "josefa",
+        "Asunto": "soporte en redes",
+        "Prioridad": "Alta",
+        "Estado": "Abierto",
+        "Agente Asignado": "ronny araujo"
+    }
+]
